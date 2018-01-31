@@ -35,7 +35,7 @@
         "enabled": true,
         "host": "10.142.0.3",
         "siteTitle": "UNOMP Beta",
-        "port": 2300,
+        "port": 80,
         "stratumHost": "pool.unomp.org",
         "stats": {
             "updateInterval": 60,
