@@ -33,9 +33,9 @@
 
     "website": {
         "enabled": true,
-        "host": "35.227.108.96",
+        "host": "10.142.0.3",
         "siteTitle": "UNOMP Beta",
-        "port": 5333,
+        "port": 2300,
         "stratumHost": "pool.unomp.org",
         "stats": {
             "updateInterval": 60,
