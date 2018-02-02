@@ -33,7 +33,7 @@
 
     "website": {
         "enabled": true,
-        "host": "10.142.0.3",
+        "host": "139.59.29.255",
         "siteTitle": "UNOMP Beta",
         "port": 80,
         "stratumHost": "pool.unomp.org",
